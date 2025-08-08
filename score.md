@@ -1,0 +1,17 @@
+# Score Summary
+
+| Test Case     |   Score | Status   | Error Message                                                                                                                                                                                                 |
+|:--------------|--------:|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Task1 - Case1 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task1 - Case2 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task2 - Case1 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task2 - Case2 |       0 | ❓       | torch.OutOfMemoryError: HIP out of memory. Tried to allocate 2.00 GiB. GPU 0 has a total capacity of ... ation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables) |
+| Task2 - Case3 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task2 - Case4 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task2 - Case5 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task3 - Case1 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task3 - Case2 |      10 | ✅       |                                                                                                                                                                                                               |
+| Task3 - Case3 |      10 | ✅       |                                                                                                                                                                                                               |
+| Total         |      90 | 🥺       |                                                                                                                                                                                                               |
+
+*This score feedback is generated at 2025-08-08 15:27:55*
